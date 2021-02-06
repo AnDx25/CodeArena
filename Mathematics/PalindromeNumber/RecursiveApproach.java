@@ -13,7 +13,7 @@ public class RecursiveApproach
 		rev=rev*10+n%10;
 		return reverseOfNumber(rev,n/10);
 	}
-
+	
 	public static void main(String args[])
 	{
 		Scanner sc=new Scanner(System.in);
@@ -21,6 +21,10 @@ public class RecursiveApproach
 		//Find reverse
 		int rev=0;
 		int n_rev=reverseOfNumber(rev,n);
-		System.out.println(n_rev);
+		if(rev==n_rev)
+		{
+			System.out.println(n+"  is a palindrome number");
+			System.out.println(n+" is not a palindrome number");
+		}
 	}
 }
