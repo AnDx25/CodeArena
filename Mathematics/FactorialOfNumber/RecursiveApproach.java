@@ -1,6 +1,10 @@
 import java.io.*;
 import java.util.*;
-
+/*
+T(n)=T(n-1)+c
+T(n)=c+c+c+c+c....n=>nc
+TC : theta(n)
+*/
 public class RecursiveApproach
 {	public static long factorial(long n)
 	{

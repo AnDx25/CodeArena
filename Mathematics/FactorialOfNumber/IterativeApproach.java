@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
-
+/*
+TC : theta(n)
+*/
 public class IterativeApproach
 {	public static long factorial(long n)
 	{
