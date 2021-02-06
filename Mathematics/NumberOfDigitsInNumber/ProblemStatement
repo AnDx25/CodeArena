@@ -1,0 +1,8 @@
+Given a number find number of Digits in it
+
+Ex: 363 this number consists of three digits : 3,6,3
+
+In this three Approaches have been covered 
+	1. Iterative Approach : theta(n) where n is length of number
+	2. Recursive Approach : theta(logn)
+	3. LogarithmicApproach: theta(1)
