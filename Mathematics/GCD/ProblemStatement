@@ -1,0 +1,12 @@
+Given two numbers a and b find the greatest common divisor between those two.
+
+Ex: 10, 15:
+	Prime factor of 10 := 1x2x5
+	Prime factor of 15 := 1x3x5
+    common factors=1 and 5 
+    but greatest common divisor is 5
+
+Here three Approaches have been solved :
+	Naive
+	Basic Eucleadian Approach
+	Optimized Eucleadian Approach
