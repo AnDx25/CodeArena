@@ -1,0 +1,4 @@
+Given two numbers a and b and we have to find a least number which is completely divisble by both a and b.
+
+Ex : LCM(10,15): 30
+     LCM(4,6):12
