@@ -1,0 +1,7 @@
+In this problem given a number "n" and we need to find if binary representation of this number has Kth bit set or not
+
+Ex : n=5 and k =3
+    5: 0101 and its 3rd bit from right side is set So output will be Yes
+   
+    n=8 and k=2
+    8: 1000 and 2nd bit from right is 0 SO output will be No

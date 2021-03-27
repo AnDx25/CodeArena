@@ -1,0 +1,7 @@
+In this problem we have to find how many bits in binary representation of given number n are set.
+
+Ex : Input : n=5 : 0101 
+     Output: 	2
+    
+    Input : n=8 : 1000
+    Output : 1
